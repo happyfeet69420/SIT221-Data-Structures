@@ -1,0 +1,16 @@
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\Task 1.1.exe
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\Task 1.1.deps.json
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\Task 1.1.runtimeconfig.json
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\Task 1.1.runtimeconfig.dev.json
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\Task 1.1.dll
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\ref\Task 1.1.dll
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\bin\Debug\net5.0\Task 1.1.pdb
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.dll
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\ref\Task 1.1.dll
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.pdb
+C:\Users\Anthony\Desktop\Semester 1 2021\SIT221 Data Structures\Ontrack Tasks\Task 1.1\Task 1.1\Task 1.1\obj\Debug\net5.0\Task 1.1.genruntimeconfig.cache
